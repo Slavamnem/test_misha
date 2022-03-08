@@ -1,3 +1,5 @@
 <?php
 
-echo "hello3";
+foreach (range(1, 10) as $item) {
+
+}
